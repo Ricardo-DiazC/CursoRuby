@@ -1,10 +1,9 @@
 # Ruby on Replit
+Éste código fue generado en replit
 
-This is a template to get you started with Ruby on Replit. It's ready to go so you can just hit run and start coding!
-
-## Running the repl
-
-Simply hit run! You can edit the run command from the `.replit` file.
+##Objetivo
+El objetivo principal de éste ejercicio es un juego de "piedra, papel, tijeras" o "cachipún" como se conoce en Chile.
+se realizó capturando teclado por consola y comparando la seleción del jugador con un una jugada aleatoria generada. 
 
 ## Installing packages
 
